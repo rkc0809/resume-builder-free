@@ -93,7 +93,7 @@ export default function Home() {
       <nav className="no-print" style={{ background: "rgba(255,255,255,0.85)", backdropFilter: "blur(8px)", borderBottom: "0.5px solid #e5e3dc", position: "sticky", top: 0, zIndex: 40 }}>
         <div style={{ maxWidth: 760, margin: "0 auto", padding: "0 1.5rem", height: 52, display: "flex", alignItems: "center", justifyContent: "space-between" }}>
           <span style={{ fontWeight: 700, fontSize: 15, letterSpacing: "-0.02em" }}>✦ ResumeAI</span>
-          <span style={{ fontSize: 12, color: "#888", background: "#E1F5EE", color: "#0F6E56", padding: "3px 10px", borderRadius: 20, fontWeight: 600 }}>Free · No signup needed</span>
+          <span style={{ fontSize: 12, color: "#888", background: "#E1F5EE", padding: "3px 10px", borderRadius: 20, fontWeight: 600 }}>Free · No signup needed</span>
         </div>
       </nav>
 
